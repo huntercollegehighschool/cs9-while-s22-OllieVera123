@@ -11,3 +11,11 @@ Hunter
 Hunter
 
 '''
+
+num = int(input("How many times do you want to say Hunter: "))
+amount = 1
+while amount <= num:
+  print("Hunter")
+  amount += 1
+
+#DONE
